@@ -160,3 +160,4 @@ wget==3.2
 widgetsnbextension==4.0.15
 wrapt==2.1.2
 zlib-state==0.1.10
+plotly
